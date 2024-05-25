@@ -1,5 +1,5 @@
 # CourtFinder
-An basketball enthusiast app built using Flutter and Appwrite.
+An basketball enthusiast app built using Flutter and Appwrite. Mockups done using Figma.
 
 ## Frontend User Flow
 ![Alt text](images/00_image.png)
